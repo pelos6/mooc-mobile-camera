@@ -8,7 +8,7 @@ Para empezar, partimos de la plantilla que venimos usando que tiene preparado un
 
 Tenemos un HTML básico con una cabecera y un pie de página. Y cargamos el CSS de nuestra app y las librerías JavaScript necesarias. En el CSS aplicamos un estilo para el body con márgenes, padding y tipografía. Lo mismo para la cabecera y el pie de página.
 
-Lanzamos el servudor de PhoneGap con ```phonegap serve``` desde la consola. Y hacemos la conexión con el dispositivo usando la PhoneGap Developer App.
+Lanzamos el servidor de PhoneGap con ```phonegap serve``` desde la consola. Y hacemos la conexión con el dispositivo usando la PhoneGap Developer App.
 
 ## Tomar una foto
 
